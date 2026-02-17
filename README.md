@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Ryan Krumperman, and I am a student at Brigham Young University. Feel free to check out the projects I've worked on. 
+
 <!--
 **ryankrumperman/ryankrumperman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
